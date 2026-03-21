@@ -55,5 +55,5 @@
 ---
 
 ## 💬 Fun Fact
-> "Coding is my superpower, AI is my playground!" ⚡
+> "Coding is my superpower, AI is my playground!" 
 
