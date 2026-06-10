@@ -12,7 +12,6 @@ I specialize in developing AI-powered applications with a focus on **Large Langu
 - **Machine Learning** – Developing and deploying ML models for real-world problems
 - **Backend Development** – Creating robust APIs and services using modern frameworks
 - **AI Agent Development** – Designing intelligent agents using LangChain and LangGraph
-- **Data Engineering** – Processing and analyzing large datasets efficiently
 
 ## 🛠️ Tech Stack
 
