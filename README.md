@@ -4,8 +4,8 @@
 
 ### AI Engineer | Agentic AI • LLM Applications • Production-Grade GenAI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anishpandey7-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anishpandey7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-anishpandey7.com-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anishpandey7.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anishpandey7-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-pandey-9235a32a6/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anishpandey7.com-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anishpandey7.com.np)
 [![Gmail](https://img.shields.io/badge/Email-anishpandey1232@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishpandey1232@gmail.com)
 
 </div>
