@@ -105,8 +105,7 @@ Third Year · Expected Nov 2028
 
 <div align="center">
 
-![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishpandey7659&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishpandey7659&layout=compact&theme=radical&hide_border=true)
+[![Anish's contribution graph](https://ghchart.rshah.org/2f81f7/anishpandey7659)](https://github.com/anishpandey7659)
 
 </div>
 
