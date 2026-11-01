@@ -63,7 +63,7 @@ I enjoy integrating agentic capabilities into real applications through autonomo
 
 ## 🚀 Featured Projects
 
-### 📚 [ArXiv Copilot](https://github.com/anishpandey7659/Arxiv-Copilot) — Agentic Research Assistant
+### 📚 [ArXiv Copilot](https://github.com/anishpandey7659/Arxiv-Research-Copilot) — Agentic Research Assistant
 
 An end-to-end RAG-based agentic research assistant that automatically fetches, processes, indexes, and answers questions over ArXiv research papers.
 
@@ -79,7 +79,7 @@ An end-to-end RAG-based agentic research assistant that automatically fetches, p
 
 ---
 
-### 💼 [JobPilot AI](https://github.com/anishpandey7659/JobPilot) — JobMatch Agent
+### 💼 [JobPilot AI](https://github.com/anishpandey7659/JobPilot-AI) — JobMatch Agent
 
 An AI-powered job search agent that finds, ranks, and refines job listings and tailors resumes for selected roles.
 
